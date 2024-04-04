@@ -1,0 +1,14 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "1230041516-input"
+          },
+          "object": {
+            "key": "test_0.mp4"
+          }
+        }
+      }
+    ]
+  }
